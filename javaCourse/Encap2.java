@@ -1,0 +1,3 @@
+class Encap2{
+    
+}
