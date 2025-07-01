@@ -1,0 +1,17 @@
+abstraction in java:
+hiding the internal implementation and showing only those 
+properties to the user which we want to show to them.
+
+
+in java abstraction can be achived by two ways :
+
+1. by using abstract class.
+2. by using interface.
+
+
+
+1.a. by using abstract class abstraction can be achived from zero to 100%.
+2.a. by using interface abstraction can be achived by 100%. 
+
+Create a class BankAccount with private fields: accountNumber, balance. Add a method to
+deposit and withdraw money with appropriate validation. Demonstrate it in the main method.
